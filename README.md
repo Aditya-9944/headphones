@@ -27,12 +27,6 @@ A sleek and modern landing page for a headphones product, built with responsive 
 
 ---
 
-## 📸 Screenshots
-
-*(Add 1-2 screenshots or a short GIF of the site)*
-
----
-
 ## 🚀 Getting Started
 
 Clone the repo and open `index.html` in your browser:
