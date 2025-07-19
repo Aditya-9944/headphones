@@ -7,14 +7,24 @@ A sleek and modern landing page for a headphones product, built with responsive 
 https://aditya-9944.github.io/headphones/
 
 ---
+## 📌 About the Project
 
-## ✨ Features
+This project was built as a front-end product showcase. It highlights a hero section, promotional content, product details, and visual aesthetics with animations and transitions.
 
-- Responsive design for all screen sizes
-- Hero section with CTA
-- Product highlight sections
-- Interactive hover effects
-- Clean layout using CSS Flex/Grid
+Key motivations:
+- Practicing pure front-end development (HTML, CSS, JS)
+- Improving responsive design skills
+- Building visually engaging UI without using any frameworks
+
+---
+
+## 🧩 Features
+
+- 📱 **Mobile-First Design** – Fully responsive layout using media queries
+- 🎞️ **Image Slider** – Simple JS slider to show off featured products
+- 🌈 **Modern UI/UX** – Clean, minimalist layout with branded styling
+- ⚡ **Fast Performance** – Lightweight code without any libraries
+- 🔁 **Reusable Sections** – Sections can be adapted for real-world eCommerce use
 
 ---
 
