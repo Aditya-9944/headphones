@@ -4,8 +4,7 @@ A sleek and modern landing page for a headphones product, built with responsive 
 
 ## 🌐 Live Demo
 
-[👉 View Live Site](https://your-netlify-link.netlify.app)  
-*(Replace with your actual link)*
+https://aditya-9944.github.io/headphones/
 
 ---
 
